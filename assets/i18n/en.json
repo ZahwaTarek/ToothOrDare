@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "lets-start": "Let's Start",
+    "how-to-play": "How to Play",
+    "virtual-round": "Virtual Round",
+    "about-us": "About Us",
+    "reviews": "Reviews",
+    "order-now": "Order Now",
+    "contact-us": "Contact Us"
+  },
+  "lets-start": {
+    "title": "TOOTH",
+    "subtitle": "OR DARE",
+    "tagline": "Board Game"
+  },
+  "how-to-play": {
+    "how-to-play": "How to Play",
+    "text1": "Get ready to quiz, learn, and laugh with — the ultimate brain-boosting challenge for kids!",
+    "text2": "Packed with fun facts and cool questions, each card tests your smarts on everything from brushing basics to tooth-friendly snacks.",
+    "text3": "Whether you're playing solo or going head-to-head with friends, every correct answer earns smiles, and every wrong one is a chance to learn.",
+    "text4": "It's the perfect way to make healthy habits stick — one flashcard at a time! 🍎😄"
+  },
+  "visual-round":{
+      "vistual-round": "Virtual Round",
+      "toothOrDare":"Tooth or Dare"
+},
+"about-us":{
+  "about-us":"About Us",
+  "text1": "We are a diverse team of young professionals 👩‍⚕️👨‍🎓 and students from various academic backgrounds, including dentistry 🦷, medicine 🏥, nutrition 🥗, psychology 🧠, fine arts 🎨, and software engineering 💻.",
+  "text2": "United by a shared goal of promoting oral health education 🪥, we combined our diverse skills to create Tooth or Dare 🎮—a fun, interactive game designed to teach adolescents 👦👧 about oral hygiene and nutrition in an engaging and memorable way ✨."
+},
+"reviews":{
+  "reviews":"Reviews"
+},
+"contact-us":{
+  "title":"Contact Us",
+  "subtitle":""
+},
+  "buttons": {
+    "startBtn": "Let's Start",
+    "next":"Next",
+    "oreder-now": "Order Now"
+  },
+  "title": "Welcome",
+  "description": "This is an English description"
+}
